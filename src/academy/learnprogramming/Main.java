@@ -17,6 +17,15 @@ public class Main {
             printAster.bPart();
             printAster.ePart();
 
+
             printAster.aPartEmpty();
+
+
+            printAster.dPartEmpty();
+            printAster.bPartEmpty();
+            printAster.cPartEmpty();
+            printAster.fPartEmpty();
+            printAster.ePartEmpty();
+
     }
 }
